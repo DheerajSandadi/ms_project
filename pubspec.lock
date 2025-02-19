@@ -93,10 +93,10 @@ packages:
     dependency: transitive
     description:
       name: dart_webrtc
-      sha256: "3b3ff59c66cbc1577ed0f28d7005b5163555208fb1697a42207424ab8baa27c5"
+      sha256: "03df5b41b23bc185ebcf4b0ffc92d002e295bf56287fb5f9d2c321ddaf7760cc"
       url: "https://pub.dev"
     source: hosted
-    version: "1.5.0"
+    version: "1.5.1"
   encrypt:
     dependency: "direct main"
     description:
@@ -126,10 +126,10 @@ packages:
     description:
       path: "."
       ref: master
-      resolved-ref: "79aaea67345f7d61f96dde750e6e82d3f1857f9a"
+      resolved-ref: "70db27bb1bbd625ad66b2687daac07f4ea4126c1"
       url: "https://github.com/miguelpruivo/flutter_file_picker.git"
     source: git
-    version: "8.3.5"
+    version: "9.0.0"
   file_selector_linux:
     dependency: transitive
     description:
@@ -158,10 +158,10 @@ packages:
     dependency: transitive
     description:
       name: file_selector_windows
-      sha256: "8f5d2f6590d51ecd9179ba39c64f722edc15226cc93dcc8698466ad36a4a85a4"
+      sha256: "320fcfb6f33caa90f0b58380489fc5ac05d99ee94b61aa96ec2bff0ba81d3c2b"
       url: "https://pub.dev"
     source: hosted
-    version: "0.9.3+3"
+    version: "0.9.3+4"
   firebase_auth:
     dependency: "direct main"
     description:
